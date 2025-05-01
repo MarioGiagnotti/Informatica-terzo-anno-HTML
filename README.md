@@ -1,23 +1,22 @@
-# Informatica terzo anno CSS
+# Informatica terzo anno HTML
 
-Questo è un semplice repository basato su **CSS**.
+Questo è un semplice repository basato su **HTML**.
 
 
 ## Tecnologie:
-- **CSS**
 - **HTML**
 
 ## Come testare i contenuti:
 
 1. Clona il repository:
 
-git clone https://github.com/MarioGiagnotti/Informatica-terzo-anno-CSS.git
+git clone https://github.com/MarioGiagnotti/Informatica-terzo-anno-HTML.git
 
 oppure fare il Download del file .zip
 
 2. Aprire VSC nella cartella di progetto
 
-3. Avvia il container:
-Cliccare sui relativi file index.html
+3. Avvia il TEST:
+Cliccare sui relativi file index.html -> Run -> Run without debugging
 
 
